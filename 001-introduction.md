@@ -13,27 +13,22 @@ Starting with the **network**, the new infrastructure will have will have a rath
 
 **1. Ubiquiti Edgerouter 4**
 
-    This will act as the router and DHCP server of the entire network.
-    It will define the VLANs and distribute DHCP inside of them.
-    It will also handle the firewall.
+This will act as the router and DHCP server of the entire network. 
+It will define the VLANs and distribute DHCP inside of them.
+It will also handle the firewall.
 
 **2. D-Link DGS 1210-16**
 
-    This switch will be the main switch, to which will connect the servers, 
-    laptop, and everything that needs a wired connection but doesn't require PoE (power over ethernet). 
-    The great thing about this switch is that it is fanless, and has 4 combo ports (rj45/SFP) 
-    that I can use for the uplink to the router and the second switch.
+This switch will be the main switch, to which will connect the servers, laptop, and everything that needs a wired connection but doesn't require PoE (power over ethernet). The great thing about this switch is that it is fanless, and has 4 combo ports (rj45/SFP) that I can use for the uplink to the router and the second switch.
 
 **3. D-Link DGS 1210-10P**
 
-    This second switch, which is also a fanless one, will handle the PoE devices, 
-    such as the access points for my wireless network, cameras, etc..
-    It has 2 SFP ports which I will be using to connect to connect to the main switch.
+This second switch, which is also a fanless one, will handle the PoE devices, such as the access points for my wireless network, cameras, etc.. It has 2 SFP ports which I will be using to connect to connect to the main switch.
 
 **4. Unifi UAP-AC-Lite**
 
-    I have a couple of them, and they will be used to handle everything and anything that needs a wireless connection, such as cameras, phones, laptops, etc..
-    I have been using them for a couple of years now and they fit my needs perfectly so I'll keep using them.
+I have a couple of them, and they will be used to handle everything and anything that needs a wireless connection, such as cameras, phones, laptops, etc..
+I have been using them for a couple of years now and they fit my needs perfectly so I'll keep using them.
 
 Annnnnd, that's about it for the network side. I don't really want to over-complicate things on the network, since I won't be doing super complex things on it, and I would rather focus on the computing infrastructure side of things to do my weird stuff.
 
