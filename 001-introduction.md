@@ -37,6 +37,8 @@ Starting with the **network**, the new infrastructure will have will have a rath
 
 Annnnnd, that's about it for the network side. I don't really want to over-complicate things on the network, since I won't be doing super complex things on it, and I would rather focus on the computing infrastructure side of things to do my weird stuff.
 
+---
+
 Talking about the computing part of things, here's the plan:
 
 **1. Unraid Server**
@@ -62,5 +64,4 @@ That is my small contribution to this amazing community that is the thech/homela
 
 See you tomorrow !
 
-
-
+![diagram](https://github.com/ednxzu/100-Days-of-Homelab/blob/main/ressources/homelab.jpg?raw=true)
