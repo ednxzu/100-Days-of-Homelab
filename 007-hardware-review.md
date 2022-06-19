@@ -1,4 +1,4 @@
-# 100 Days of Homelab: Day #4 - A lot of stuff
+# 100 Days of Homelab: Day #7 - Hardware Reviews
 Today was hardware day !
 
 ## Hardware reviewing

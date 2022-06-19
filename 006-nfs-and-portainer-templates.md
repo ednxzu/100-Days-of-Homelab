@@ -1,4 +1,4 @@
-# 100 Days of Homelab: Day #4 - A lot of stuff
+# 100 Days of Homelab: Day #6 - Portainer Templates
 I figured it out !!!
 
 ## NFS Debug 

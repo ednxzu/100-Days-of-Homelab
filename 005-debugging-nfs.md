@@ -1,4 +1,4 @@
-# 100 Days of Homelab: Day #4 - A lot of stuff
+# 100 Days of Homelab: Day #5 - NFS Debug
 Today was spent mostly on debugging NFS stale file handles... 
 
 ## NFS debug
